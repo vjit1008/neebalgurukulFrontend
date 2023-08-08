@@ -1,0 +1,48 @@
+.main-block {
+    background-image: url("./coffee.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px;
+    padding-bottom: 10px;
+  }
+  .search-block {
+    /* background-color: rgb(57, 74, 61); */
+    padding-bottom: 50px;
+  }
+  .subscribe {
+    color:aliceblue;
+    font-size: 50px;
+    margin-left: 100px;
+  }
+  .heading {
+    font-size: 70px;
+  }
+  .custom-navbar {
+    border-bottom: 3px solid rgb(254, 77, 13);
+  }
+  .search-bar{
+      margin-left: 700px;
+  }
+  .details{
+      margin-top: 30px;
+  }
+  .nav-heading{
+      font-size: 50px;
+      font-weight: 700;
+  }
+  li:hover{
+      color: rgb(254, 77, 13);
+  }
+  .logo{
+      color: rgb(254, 77, 13);
+  }
+  .nav-link:hover {
+      color: rgb(254, 77, 13);
+    }
+    .img{
+       width: 50%;
+    }
+    
+  .img:hover{
+     width: 70%;
+  }
